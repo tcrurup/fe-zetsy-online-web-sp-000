@@ -33,6 +33,10 @@ footer{
   border: 5px #ccc solid;
 }
 
+#press img:hover{
+  border: 5px rgb(111,127,122) solid;
+}
+
 .wrapper {
 	width: 960px;
 	margin: 0 auto;
