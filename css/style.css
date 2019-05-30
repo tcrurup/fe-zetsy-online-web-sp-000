@@ -29,6 +29,10 @@ footer{
   font-size: .8em;
 }
 
+#photo img{
+  border: 5px rgb(111,127,122) solid;
+}
+
 #press img{
   border: 5px #ccc solid;
 }
