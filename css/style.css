@@ -24,6 +24,10 @@ h2 {
   color: rgb(111,127,122)
 }
 
+header{
+  border-bottom: 1px solid #ccc;
+}
+
 footer{
   text-align: right;
   font-size: .8em;
