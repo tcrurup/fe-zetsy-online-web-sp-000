@@ -18,7 +18,7 @@ h1 {
   font-size : 5em;
   color: rgb(152,173,166);
   border-bottom: 1px solid #ccc;
-  margin: 0;
+  margin: 0 0 5px;
 }
 
 h2 {
